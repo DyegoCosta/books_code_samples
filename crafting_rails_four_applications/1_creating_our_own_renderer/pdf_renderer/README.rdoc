@@ -1,0 +1,4 @@
+PdfRenderer
+================================
+
+This is a sample code shown on the first chapter of the Crafting Rails 4 Applications book written by José Valim
